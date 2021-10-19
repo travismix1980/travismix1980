@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @travismix1980
-- 👀 I’m interested in Board Games
+- 👀 I’m interested in Board Games, 3d printing, and programming
 - 🌱 I’m currently learning Python
 
 <!---
