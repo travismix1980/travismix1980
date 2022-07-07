@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @travismix1980
 - 👀 I’m interested in Board Games, 3d printing, and programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently working with Python and JavaScript
 
 <!---
 travismix1980/travismix1980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
