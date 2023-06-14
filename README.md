@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @travismix1980
 - 👀 I’m interested in Board Games, 3d printing, and programming
+- 🛠 Building a ecommerce site for a client
 
 <!---
 travismix1980/travismix1980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
