@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @travismix1980
+- 👋 Hi, I’m Travis Mix
 - 👀 I’m interested in Board Games, 3d printing, and programming
 - 🛠 Learning Django
 <!---
